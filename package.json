@@ -1,0 +1,20 @@
+{
+  "name": "infinityg-api-client",
+  "version": "1.0.0",
+  "description": "NodeJS application for interacting with Infinity Ground API",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "winston": "^3.11.0",
+    "winston-daily-rotate-file": "^4.7.1",
+    "twisters": "^1.1.0",
+    "figlet": "^1.7.0",
+    "fs-extra": "^11.1.1",
+    "https-proxy-agent": "^7.0.2",
+    "web3": "^1.9.0",
+    "chalk": "^4.1.2"
+  }
+}

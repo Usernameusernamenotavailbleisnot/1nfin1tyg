@@ -1,0 +1,9 @@
+{
+  "enableProxy": true,
+  "enableTask": true,
+  "enableCheckIn": true,
+  "retryCount": 5,
+  "retryDelay": 1000,
+  "taskDelay": 1000,
+  "dailyDelay": 90000000
+}

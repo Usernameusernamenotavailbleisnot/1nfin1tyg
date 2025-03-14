@@ -1,7 +1,7 @@
 {
   "name": "infinityg-api-client",
   "version": "1.0.0",
-  "description": "NodeJS application for interacting with Infinity Ground API",
+  "description": "NodeJS application for interacting with Infinity",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js"
